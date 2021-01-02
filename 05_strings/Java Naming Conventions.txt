@@ -1,0 +1,7 @@
+Constant: start with uppercase - CONST, MY_CONST
+Variable: start with lowercase - var, myVar
+
+Class   : start with uppercase (should be a noun) - Person, Game, Phone
+Method  : start with lowercase (should be a verb) - add(), addNumbers()
+
+Interface: start with uppercase (should be an adjective) - Sweet, Red ..
